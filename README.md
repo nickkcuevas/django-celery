@@ -9,3 +9,5 @@ $ docker-compose up -d --build
 django localhost -> localhost:8001
 
 $ chmod +x dcelery/entrypoint.sh
+
+Always check your local user is configured properly.
